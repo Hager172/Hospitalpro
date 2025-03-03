@@ -11,8 +11,9 @@ namespace first.models
     {
         public int DoctorId { get; set; }
 
-     
+        public int age { get; set; }
         public string Name { get; set; } = string.Empty;
+
 
     }
 }
