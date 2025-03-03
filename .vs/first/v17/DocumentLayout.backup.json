@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hager\\source\\repos\\first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|c:\\users\\hager\\source\\repos\\first\\first\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|solutionrelative:first\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Hager\\source\\repos\\first\\first\\models\\Doctor.cs",
+              "RelativeDocumentMoniker": "first\\models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Hager\\source\\repos\\first\\first\\models\\Doctor.cs",
+              "RelativeToolTip": "first\\models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:04:16.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
