@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hager\\source\\repos\\first\\",
+  "WorkspaceRootPath": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hager\\source\\repos\\first\\first\\Migrations\\20250303220421_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first\\Migrations\\20250303220421_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|e:\\linq\\project\\projecthagergithub\\hospitalpro\\first\\models\\class122.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|solutionrelative:first\\models\\class122.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|c:\\users\\hager\\source\\repos\\first\\first\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|e:\\linq\\project\\projecthagergithub\\hospitalpro\\first\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|solutionrelative:first\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|e:\\linq\\project\\projecthagergithub\\hospitalpro\\first\\migrations\\20250303220421_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B116083-8A7C-45C4-87ED-C969C055FDD4}|first\\first.csproj|solutionrelative:first\\migrations\\20250303220421_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class122.cs",
+              "DocumentMoniker": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\first\\models\\Class122.cs",
+              "RelativeDocumentMoniker": "first\\models\\Class122.cs",
+              "ToolTip": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\first\\models\\Class122.cs",
+              "RelativeToolTip": "first\\models\\Class122.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:47:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20250303220421_v2.cs",
-              "DocumentMoniker": "C:\\Users\\Hager\\source\\repos\\first\\first\\Migrations\\20250303220421_v2.cs",
+              "DocumentMoniker": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\first\\Migrations\\20250303220421_v2.cs",
               "RelativeDocumentMoniker": "first\\Migrations\\20250303220421_v2.cs",
-              "ToolTip": "C:\\Users\\Hager\\source\\repos\\first\\first\\Migrations\\20250303220421_v2.cs",
+              "ToolTip": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\first\\Migrations\\20250303220421_v2.cs",
               "RelativeToolTip": "first\\Migrations\\20250303220421_v2.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAqwFMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwFMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T22:04:21.683Z",
               "EditorCaption": ""
@@ -41,11 +82,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\Hager\\source\\repos\\first\\first\\models\\Doctor.cs",
+              "DocumentMoniker": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\first\\models\\Doctor.cs",
               "RelativeDocumentMoniker": "first\\models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\Hager\\source\\repos\\first\\first\\models\\Doctor.cs",
+              "ToolTip": "E:\\linq\\project\\projecthagergithub\\Hospitalpro\\first\\models\\Doctor.cs",
               "RelativeToolTip": "first\\models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T22:04:16.285Z",
               "EditorCaption": ""
